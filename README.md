@@ -50,5 +50,5 @@ src/vendor/       шрифты и normalize.css
 Опубликованный проект:
 
 ```text
-https://<github-login>.github.io/mesto-ad-milana-pages/
+https://github.com/milanadel/mesto-ad
 ```
