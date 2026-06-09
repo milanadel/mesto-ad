@@ -52,3 +52,4 @@ src/vendor/       шрифты и normalize.css
 ```text
 https://github.com/milanadel/mesto-ad
 ```
+
