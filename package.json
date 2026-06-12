@@ -1,11 +1,11 @@
 {
-  "name": "mesto-ad",
+  "name": "mesto-ad-milana",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "vite build && gh-pages -d docs"
+    "deploy": "vite build && gh-pages -d dist"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
