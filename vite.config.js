@@ -5,7 +5,4 @@ export default defineConfig({
     open: true,
   },
   base: "/mesto-ad/",
-  build: {
-    outDir: "docs",
-  },
 });
