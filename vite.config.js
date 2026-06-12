@@ -6,6 +6,6 @@ export default defineConfig({
   },
   base: "/mesto-ad/",
   build: {
-    outDir: "docs",  // 👈 ЭТО ДОБАВИТЬ!
+    outDir: "docs",
   },
 });
