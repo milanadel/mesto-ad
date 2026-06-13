@@ -8,7 +8,7 @@
 
 ## Ссылка на опубликованный проект
 
-🔗 milanadel.github.io/mesto-ad
+🔗 milanadel.github.io/mesto-ad/
 
 ## Функциональность
 
