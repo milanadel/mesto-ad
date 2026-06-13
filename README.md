@@ -8,9 +8,7 @@
 
 ## Ссылка на опубликованный проект
 
-🔗 https://<github-login>.github.io/mesto-ad-milana-pages/
-
-> Замените `<github-login>` на свой логин GitHub после публикации проекта.
+🔗 milanadel.github.io/mesto-ad
 
 ## Функциональность
 
